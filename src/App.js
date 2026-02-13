@@ -30,7 +30,7 @@ function App() {
 
   return (
     <div className="container">
-      <h1>Do you love me ❤️ YOUR_NAME ❤️?</h1>
+      <h1>Do you love me ❤️ sathish ❤️?</h1>
 
       <button className="yes" onClick={() => setShowMessage(true)}>
         Yes 😍
